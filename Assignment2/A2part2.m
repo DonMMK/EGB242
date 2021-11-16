@@ -366,15 +366,3 @@ title('EEG signal - Astronaut 5')
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
